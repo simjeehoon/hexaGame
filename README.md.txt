@@ -1,1 +1,0 @@
-hexa game 입니다.
